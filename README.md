@@ -6,4 +6,4 @@ Input:
 Output
    simple interest = p*t*r
 
-   Omar was Here
+   Omar was Here in 1990
